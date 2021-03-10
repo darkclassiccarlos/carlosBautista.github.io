@@ -12,7 +12,7 @@ Ingeniero electrónico con conocimiento de bases de datos y análisis de datos, 
 
 Educación
 ======
-# 2018 Electronics Engineer
+## 2018 Electronics Engineer
   Universidad Distrital Francisco José de Caldas.
   Bogotá, Colombia
 
