@@ -17,15 +17,14 @@ Educación
 ### 2020 (En curso) Maestria en ciencias de la informacion y las comunicaciones 
   Universidad Distrital Francisco José de Caldas. Bogotá, Colombia
 
-
-Getting started
+Habilidades técnicas
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Habilidades en programación: C#, Python, powershell, JavaScript
+1. Análisis de los datos: RStudio, Python librerias (Scikit-learn, Pandas, Numpy, SciPy)
+1. Lenguajes de administracion de bases de datos: SQL
+1. Conocimiento de modelos de licencias: Microsoft SPLA, Trend Micro, Veeam, VMware, (Cloud Solution Provider) CSP, Zerto, Microsoft Azure
+1. Marcos de automatización de pruebas: Selenium, Cucumber
+1. Simulación de sistemas electrónicos: Multisim, Simulink and DIgSILENT
 
 Site-wide configuration
 ------
