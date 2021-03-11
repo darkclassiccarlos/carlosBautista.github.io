@@ -26,9 +26,17 @@ Habilidades técnicas
 5. Marcos de automatización de pruebas: Selenium, Cucumber
 6. Simulación de sistemas electrónicos: Multisim, Simulink and DIgSILENT
 
-Site-wide configuration
+Experiencia profesional
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## IFX NETWORK COLOMBIA
+* Practicante, Mayo, 2017 Noviembre, 2017
+* Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
+
+## Multiplica
+* Data Science Consultant, 2021 
+
+## IFX NETWORK COLOMBIA
+* Lider de Arquitectura y soluciones de datos 2021
 
 Create content & metadata
 ------
