@@ -33,7 +33,7 @@ Experiencia profesional
 * Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
 
 ## Multiplica
-* Data Science Consultant, 2021 
+* Data Science Consultant, Febrero, 2021 
 
 ## IFX NETWORK COLOMBIA
 * Lider de Arquitectura y soluciones de datos 2021
