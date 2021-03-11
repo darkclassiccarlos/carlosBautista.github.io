@@ -20,11 +20,11 @@ Educación
 Habilidades técnicas
 ======
 1. Habilidades en programación: C#, Python, powershell, JavaScript
-1. Análisis de los datos: RStudio, Python librerias (Scikit-learn, Pandas, Numpy, SciPy)
-1. Lenguajes de administracion de bases de datos: SQL
-1. Conocimiento de modelos de licencias: Microsoft SPLA, Trend Micro, Veeam, VMware, (Cloud Solution Provider) CSP, Zerto, Microsoft Azure
-1. Marcos de automatización de pruebas: Selenium, Cucumber
-1. Simulación de sistemas electrónicos: Multisim, Simulink and DIgSILENT
+2. Análisis de los datos: RStudio, Python librerias (Scikit-learn, Pandas, Numpy, SciPy)
+3. Lenguajes de administracion de bases de datos: SQL
+4. Conocimiento de modelos de licencias: Microsoft SPLA, Trend Micro, Veeam, VMware, (Cloud Solution Provider) CSP, Zerto, Microsoft Azure
+5. Marcos de automatización de pruebas: Selenium, Cucumber
+6. Simulación de sistemas electrónicos: Multisim, Simulink and DIgSILENT
 
 Site-wide configuration
 ------
