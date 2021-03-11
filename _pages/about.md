@@ -28,14 +28,14 @@ Habilidades técnicas
 
 Experiencia profesional
 ------
-## IFX NETWORK COLOMBIA
+## IFX Networks Colombia
 * Practicante, Mayo, 2017 Noviembre, 2017
 * Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
 
-## MULTIPLICA
+## Multiplica
 * Data Science Consultant, Febrero, 2021 
 
-## IFX NETWORK COLOMBIA
+## IFX Networks Colombia
 * Lider de Arquitectura y soluciones de datos 2021
 
 Create content & metadata
