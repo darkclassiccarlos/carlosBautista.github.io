@@ -29,13 +29,13 @@ Habilidades técnicas
 Experiencia profesional
 ------
 ## IFX Networks Colombia
-## * Practicante, Mayo, 2017 Noviembre, 2017
-## * Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
+#### Practicante, Mayo, 2017 Noviembre, 2017
+#### Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
     Desarrollé un sistema para administrar licencias para usuarios internos y clientes externos con PowerShell. También contribuyó a los componentes del proyecto de preprocesamiento de datos y modelado de relaciones entre entidades.
-## Multiplica
+#### Multiplica
 * Data Science Consultant, Febrero, 2021 
 
-## IFX Networks Colombia
+#### IFX Networks Colombia
 * Lider de Arquitectura y soluciones de datos 2021
 
 Create content & metadata
