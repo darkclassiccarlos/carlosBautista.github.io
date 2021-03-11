@@ -32,7 +32,7 @@ Experiencia profesional
 * Practicante, Mayo, 2017 Noviembre, 2017
 * Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
 
-## Multiplica
+## MULTIPLICA
 * Data Science Consultant, Febrero, 2021 
 
 ## IFX NETWORK COLOMBIA
