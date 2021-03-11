@@ -28,7 +28,7 @@ Habilidades técnicas
 
 Experiencia profesional
 ------
-## IFX Networks Colombia
+# IFX Networks Colombia
 ## * Practicante, Mayo, 2017 Noviembre, 2017
 ## * Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
 * Desarrollé un sistema para administrar licencias para usuarios internos y clientes externos con PowerShell. También contribuí en el procesamiento de datos y modelado de los esquemas de tablas para el almacenamiento de datos 
@@ -36,10 +36,10 @@ Experiencia profesional
 * Desarrollé el modelo de relación de entidades de datos corporativos del Veeam Backup Replication Server, use Microsoft Sql Server
 * Análisis estadístico realizado y algoritmos desarrollados para predecir el consumo de licencias de servidor SQL, utilizando R studio y Python
 
-#### Multiplica
+## * Multiplica
 * Data Science Consultant, Febrero, 2021 
 
-#### IFX Networks Colombia
+## * IFX Networks Colombia
 * Lider de Arquitectura y soluciones de datos 2021
 
 Create content & metadata
