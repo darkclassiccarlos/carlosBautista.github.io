@@ -38,9 +38,13 @@ Experiencia profesional
 
 ## * Multiplica
 * Data Science Consultant, Febrero, 2021 
+* Desarrollo de script para establecer integración entre el appstoreConnect (apple) y GCP, a traves del consumo de APIS
+* Desarrollo de script para establecer integración entre el Twitter y GCP, a traves del consumo de APIS
+* Desarrollo de script para establecer integración entre el Facebook y GCP, a traves del consumo de APIS
+* Desarrollo de script para establecer integración entre el GAM (google) y GCP, a traves del consumo de APIS
 
 ## * IFX Networks Colombia
-* Lider de Arquitectura y soluciones de datos 2021
+* Lider de Arquitectura y soluciones de datos 2021 -Actual
 
 Create content & metadata
 ------
