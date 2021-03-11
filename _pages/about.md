@@ -31,7 +31,11 @@ Experiencia profesional
 ## IFX Networks Colombia
 ## * Practicante, Mayo, 2017 Noviembre, 2017
 ## * Ingeniero de Automatizacion Cloud, Noviembre, 2017-2020
-Desarrollé un sistema para administrar licencias para usuarios internos y clientes externos con PowerShell. También contribuyó a los componentes del proyecto de preprocesamiento de datos y modelado de relaciones entre entidades.
+* Desarrollé un sistema para administrar licencias para usuarios internos y clientes externos con PowerShell. También contribuí en el procesamiento de datos y modelado de los esquemas de tablas para el almacenamiento de datos 
+* Contribuí a la actualización y limpieza de datos de la base de datos maestra de la empresa, utilizando herramientas como Python y sus librerías.
+* Desarrollé el modelo de relación de entidades de datos corporativos del Veeam Backup Replication Server, use Microsoft Sql Server
+* Análisis estadístico realizado y algoritmos desarrollados para predecir el consumo de licencias de servidor SQL, utilizando R studio y Python
+
 #### Multiplica
 * Data Science Consultant, Febrero, 2021 
 
