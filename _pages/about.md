@@ -46,9 +46,22 @@ Experiencia profesional
 ## * IFX Networks Colombia
 * Lider de Arquitectura y soluciones de datos 2021 -Actual
 
-Create content & metadata
+Entrenamiento profesional
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Certification on Microsoft Azure Data Science 
+Azure, data analysis, data mining algorithms, machine learning, data modeling, feature extraction.
+## Certication on VTSP - SV
+VMware Technical Solutions Professional Accreditation
+## Course on app development
+Development with JavaScript, programming of mobile applications using cameras, location and additional sensors, data storage in the cloud.
+## Python for Data Science course
+Classification with logistic regression, estimation with maximum likelihood, cross-validation, ROC curves, development of robust machine learning models.
+## SQL Server Course
+Database management, Transact-SQL, and SQL.
+## Angular 5 Course
+Development of mobile and desktop web applications using Angular 5.
+## ZCP: Enterprise Engineer 8.0
+This deep-dive technical certification covers installation, setup and management of Zerto.
 
 **Markdown generator**
 
