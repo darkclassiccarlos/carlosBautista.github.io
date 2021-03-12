@@ -48,19 +48,19 @@ Experiencia profesional
 
 Entrenamiento profesional
 ------
-## Certification on Microsoft Azure Data Science 
+### Certification on Microsoft Azure Data Science 
 Azure, data analysis, data mining algorithms, machine learning, data modeling, feature extraction.
-## Certication on VTSP - SV
+### Certification on VTSP - SV
 VMware Technical Solutions Professional Accreditation
-## Course on app development
+### Course on app development
 Development with JavaScript, programming of mobile applications using cameras, location and additional sensors, data storage in the cloud.
-## Python for Data Science course
+### Python for Data Science course
 Classification with logistic regression, estimation with maximum likelihood, cross-validation, ROC curves, development of robust machine learning models.
-## SQL Server Course
+### SQL Server Course
 Database management, Transact-SQL, and SQL.
-## Angular 5 Course
+### Angular 5 Course
 Development of mobile and desktop web applications using Angular 5.
-## ZCP: Enterprise Engineer 8.0
+### ZCP: Enterprise Engineer 8.0
 This deep-dive technical certification covers installation, setup and management of Zerto.
 
 **Markdown generator**
