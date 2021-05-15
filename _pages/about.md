@@ -14,7 +14,7 @@ Educación
 ======
 ### 2018 Electronics Engineer
   Universidad Distrital Francisco José de Caldas. Bogotá, Colombia
-### 2020 (En curso) Maestria en ciencias de la informacion y las comunicaciones 
+### 2020 (En curso) Maestría en ciencias de la informacion y las comunicaciones 
   Universidad Distrital Francisco José de Caldas. Bogotá, Colombia
 
 Habilidades técnicas
